@@ -1,0 +1,6 @@
+venv/
+fenv/
+.vscode
+.env
+main@localhost.session.sql
+admin@localhost.session.sql
